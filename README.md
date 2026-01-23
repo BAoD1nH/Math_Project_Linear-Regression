@@ -40,6 +40,5 @@ The analysis focuses on the following primary factors:
 * A predictive model capable of estimating a student's Performance Index based on their habits.
 
 ---
-**Author:** [Your Name]  
+**Author:** Bao DInh
 **Field:** Data Science / Education Analytics  
-**Date:** January 2026
